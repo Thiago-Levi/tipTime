@@ -39,7 +39,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/tip-time.git
+   git clone https://github.com//Thiago-Levi/tipTime.git
    ```
 2. Abra no Android Studio.
 3. Conecte um dispositivo ou use um emulador.
